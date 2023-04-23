@@ -10,8 +10,8 @@ public class FamilyRepresentTestDrive {
         FamilyRepresent fm4 = new FamilyRepresent("fm4");
         FamilyRepresent fm5 = new FamilyRepresent("fm5");
         FamilyRepresent fm6 = new FamilyRepresent("fm6");
-        FamilyRepresent fm7 = new FamilyRepresent("fm7");
-        FamilyRepresent fm8 = new FamilyRepresent("fm8");
+        // FamilyRepresent fm7 = new FamilyRepresent("fm7");
+        // FamilyRepresent fm8 = new FamilyRepresent("fm8");
 
         fm.setMother(fm1);
         fm.setFather(fm2);
